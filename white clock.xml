@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>white clock.jpg</filename>
+	<path>C:\Users\rojan\OneDrive\Desktop\BCA\image_lable\image\white clock.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>981</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>183</ymin>
+			<xmax>657</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>
