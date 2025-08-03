@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wall_Clock</folder>
+	<filename>Wall_Clock_16.jpg</filename>
+	<path>C:\Users\rojan\OneDrive\Desktop\BCA\image_lable\Wall_Clock\Wall_Clock_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2976</width>
+		<height>3968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1081</xmin>
+			<ymin>318</ymin>
+			<xmax>2794</xmax>
+			<ymax>3266</ymax>
+		</bndbox>
+	</object>
+</annotation>

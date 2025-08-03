@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>_Azure Elegance_ Minimalist Wall Clock_ (1).jpg</filename>
+	<path>C:\Users\rojan\OneDrive\Desktop\BCA\image_lable\New folder\_Azure Elegance_ Minimalist Wall Clock_ (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>1104</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>6</ymin>
+			<xmax>724</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>

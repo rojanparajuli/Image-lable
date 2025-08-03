@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>I Love this Clock! It will cover almost an entire wall!.jpg</filename>
+	<path>C:\Users\rojan\OneDrive\Desktop\BCA\image_lable\New folder\I Love this Clock! It will cover almost an entire wall!.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>738</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>736</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+</annotation>

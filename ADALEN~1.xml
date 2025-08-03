@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEWFOL~1</folder>
+	<filename>ADALEN~1.JPG</filename>
+	<path>C:\Users\rojan\OneDrive\Desktop\BCA\IMAGE_~1\NEWFOL~1\ADALEN~1.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>735</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>

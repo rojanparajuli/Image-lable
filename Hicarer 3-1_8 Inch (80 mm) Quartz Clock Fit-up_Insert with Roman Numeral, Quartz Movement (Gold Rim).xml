@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Hicarer 3-1_8 Inch (80 mm) Quartz Clock Fit-up_Insert with Roman Numeral, Quartz Movement (Gold Rim).jpg</filename>
+	<path>C:\Users\rojan\OneDrive\Desktop\BCA\image_lable\New folder\Hicarer 3-1_8 Inch (80 mm) Quartz Clock Fit-up_Insert with Roman Numeral, Quartz Movement (Gold Rim).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>522</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
